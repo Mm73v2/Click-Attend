@@ -1,0 +1,16 @@
+body {
+  background-color: #f7f8fc;
+  overflow: visible;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.search-input input {
+  background-color: #f7f8fc;
+}
+
+.display-students-select {
+  background-color: #f7f8fc;
+}
